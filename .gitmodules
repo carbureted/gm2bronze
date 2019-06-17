@@ -1,0 +1,3 @@
+[submodule "heroprotocol-node"]
+	path = heroprotocol-node
+	url = https://github.com/Aquilio/heroprotocol-node.git
